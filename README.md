@@ -1,4 +1,4 @@
-# Which Neural Network to Choose in Power Systems]{Which Neural Network to Choose for Post-Fault Localization, Dynamic State Estimation  \& Optimal Measurement Placement in Power Systems?
+# Which Neural Network to Choose for Post-Fault Localization, Dynamic State Estimation  \& Optimal Measurement Placement in Power Systems?
 
 Source: https://arxiv.org/abs/2104.03115
 
